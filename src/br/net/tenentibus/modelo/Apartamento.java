@@ -5,6 +5,7 @@ public class Apartamento {
 	private String bloco;
 	private String apartamento;
 	private int identificador;
+	
 	public String getBloco() {
 		return bloco;
 	}

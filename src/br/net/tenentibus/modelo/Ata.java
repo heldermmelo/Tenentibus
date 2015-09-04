@@ -4,6 +4,7 @@ public class Ata {
 	private int codigo;
 	private Deliberacao deliberacao;
 	private String texto;
+	
 	public int getCodigo() {
 		return codigo;
 	}
