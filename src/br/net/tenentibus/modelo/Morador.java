@@ -1,3 +1,4 @@
+
 package br.net.tenentibus.modelo;
 
 import javax.persistence.Column;
